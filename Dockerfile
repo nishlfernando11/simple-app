@@ -1,5 +1,5 @@
 # Set the base image to 
-FROM node/8
+FROM node:8
 
 MAINTAINER nishanif
 
